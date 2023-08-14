@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  TaskRedactionDlg.cpp
+c:\cppproj\taskgenerator\taskgenerator\taskredactiondlg.cpp(75): warning C4018: '<' : signed/unsigned mismatch
+c:\cppproj\taskgenerator\taskgenerator\taskredactiondlg.cpp(143): warning C4018: '<' : signed/unsigned mismatch
+  TaskGeneratorDlg.cpp
+  TaskGenerator.cpp
+  Generating Code...
+  TaskGenerator.vcxproj -> C:\CppProj\TaskGenerator\Debug\TaskGenerator.exe
