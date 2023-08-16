@@ -123,6 +123,7 @@ BOOL CTaskGeneratorDlg::OnInitDialog()
 	if (GetFileAttributes("Tasks") == INVALID_FILE_ATTRIBUTES)
 		CreateDirectory("Tasks", NULL);
 
+	srand(time(NULL));
 	GetTasks();
 
 	return TRUE;  // возврат значения TRUE, если фокус не передан элементу управления
